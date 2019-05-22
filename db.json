@@ -1,0 +1,12 @@
+{
+    "ios": {
+        "targetVersion": "5.5.0",
+        "staging": 26,
+        "production": 9
+    },
+    "android": {
+        "targetVersion": "5.5.0",
+        "staging": 22,
+        "production": 11
+    }
+}
